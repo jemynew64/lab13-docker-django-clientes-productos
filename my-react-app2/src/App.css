@@ -1,0 +1,28 @@
+/* Footer Styles */
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(54, 151, 241);
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+footer span {
+  color: white;
+}
+
+/* Formato01 Styles */
+.formato01 {
+  color: white;
+}
+
+/* Botones Styles */
+.boton {
+  padding: 10px;
+  display: inline-flex;
+  column-gap: 10px;
+  margin-right: 10px;
+}
